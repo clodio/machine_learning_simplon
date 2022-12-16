@@ -24,3 +24,9 @@ Notebooks Pandas et data visualisation complétés et justes
 ## Modalités d'évaluation
 
 Correction par le formateur
+
+
+## Synthèses
+
+corrlation par ki2
+si le R2 est bon dans le modele mais mauvais dans la réalité --> overfit
